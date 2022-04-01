@@ -1,1 +1,1 @@
-console.log("Hola putos")
+console.log("Go prro hpta")
